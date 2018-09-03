@@ -1,0 +1,65 @@
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{1}: checkout: moving from master to user-crud
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{3}: checkout: moving from user-crud to master
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{4}: checkout: moving from master to user-crud
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{5}: checkout: moving from usr-crud to master
+[33m6eea1c1[m[33m ([m[1;32musr-crud[m[33m)[m HEAD@{6}: commit: Finish user edit, update, index, and destroy actions
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{7}: checkout: moving from master to usr-crud
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{8}: checkout: moving from master to master
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{9}: merge login-logut: Fast-forward
+[33mc4d7e9a[m HEAD@{10}: checkout: moving from login-logut to master
+[33mcb71257[m[33m ([m[1;36mHEAD -> [m[1;32muser-crud[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin-logut[m[33m)[m HEAD@{11}: commit: Finish login and logout
+[33mc4d7e9a[m HEAD@{12}: checkout: moving from master to login-logut
+[33mc4d7e9a[m HEAD@{13}: checkout: moving from master to master
+[33mc4d7e9a[m HEAD@{14}: commit: Update database configuration
+[33m5a9e01c[m[33m ([m[1;32msign-up[m[33m)[m HEAD@{15}: merge sign-up: Fast-forward
+[33mee76e09[m[33m ([m[1;32mmodeling-users[m[33m)[m HEAD@{16}: checkout: moving from sign-up to master
+[33m5a9e01c[m[33m ([m[1;32msign-up[m[33m)[m HEAD@{17}: commit: Finish user signup
+[33mee76e09[m[33m ([m[1;32mmodeling-users[m[33m)[m HEAD@{18}: checkout: moving from master to sign-up
+[33mee76e09[m[33m ([m[1;32mmodeling-users[m[33m)[m HEAD@{19}: checkout: moving from master to master
+[33mee76e09[m[33m ([m[1;32mmodeling-users[m[33m)[m HEAD@{20}: merge modeling-users: Fast-forward
+[33m3772fb1[m HEAD@{21}: checkout: moving from modeling-users to master
+[33mee76e09[m[33m ([m[1;32mmodeling-users[m[33m)[m HEAD@{22}: commit: Move user model to models folder
+[33m3772fb1[m HEAD@{23}: checkout: moving from master to modeling-users
+[33m3772fb1[m HEAD@{24}: checkout: moving from master to master
+[33m3772fb1[m HEAD@{25}: commit: .
+[33m33403b3[m HEAD@{26}: checkout: moving from master to master
+[33m33403b3[m HEAD@{27}: reset: moving to HEAD
+[33m33403b3[m HEAD@{28}: checkout: moving from filling-layout-style to master
+[33m2a5d0c5[m[33m ([m[1;32mfilling-layout-style[m[33m)[m HEAD@{29}: checkout: moving from master to filling-layout-style
+[33m33403b3[m HEAD@{30}: reset: moving to HEAD
+[33m33403b3[m HEAD@{31}: reset: moving to HEAD
+[33m33403b3[m HEAD@{32}: reset: moving to HEAD
+[33m33403b3[m HEAD@{33}: reset: moving to HEAD
+[33m33403b3[m HEAD@{34}: reset: moving to HEAD
+[33m33403b3[m HEAD@{35}: reset: moving to HEAD
+[33m33403b3[m HEAD@{36}: reset: moving to HEAD
+[33m33403b3[m HEAD@{37}: reset: moving to HEAD
+[33m33403b3[m HEAD@{38}: reset: moving to HEAD
+[33m33403b3[m HEAD@{39}: reset: moving to HEAD
+[33m33403b3[m HEAD@{40}: checkout: moving from filling-layout-style to master
+[33m2a5d0c5[m[33m ([m[1;32mfilling-layout-style[m[33m)[m HEAD@{41}: checkout: moving from master to filling-layout-style
+[33m33403b3[m HEAD@{42}: checkout: moving from filling-layout-style to master
+[33m2a5d0c5[m[33m ([m[1;32mfilling-layout-style[m[33m)[m HEAD@{43}: reset: moving to HEAD
+[33m2a5d0c5[m[33m ([m[1;32mfilling-layout-style[m[33m)[m HEAD@{44}: checkout: moving from master to filling-layout-style
+[33m33403b3[m HEAD@{45}: reset: moving to HEAD
+[33m33403b3[m HEAD@{46}: reset: moving to HEAD
+[33m33403b3[m HEAD@{47}: reset: moving to HEAD
+[33m33403b3[m HEAD@{48}: reset: moving to HEAD
+[33m33403b3[m HEAD@{49}: reset: moving to HEAD
+[33m33403b3[m HEAD@{50}: checkout: moving from master to master
+[33m33403b3[m HEAD@{51}: commit: Finish layout and routes
+[33m92db261[m[33m ([m[1;32mstatic-pages[m[33m)[m HEAD@{52}: checkout: moving from filling-layout-style to master
+[33m2a5d0c5[m[33m ([m[1;32mfilling-layout-style[m[33m)[m HEAD@{53}: commit: Finish layout and routes
+[33m92db261[m[33m ([m[1;32mstatic-pages[m[33m)[m HEAD@{54}: checkout: moving from master to filling-layout-style
+[33m92db261[m[33m ([m[1;32mstatic-pages[m[33m)[m HEAD@{55}: checkout: moving from master to master
+[33m92db261[m[33m ([m[1;32mstatic-pages[m[33m)[m HEAD@{56}: merge static-pages: Fast-forward
+[33me91d7ea[m HEAD@{57}: checkout: moving from static-pages to master
+[33m92db261[m[33m ([m[1;32mstatic-pages[m[33m)[m HEAD@{58}: commit: Finish static pages
+[33me91d7ea[m HEAD@{59}: checkout: moving from master to static-pages
+[33me91d7ea[m HEAD@{60}: checkout: moving from master to master
+[33me91d7ea[m HEAD@{61}: checkout: moving from master to master
+[33me91d7ea[m HEAD@{62}: commit: Add .editorconfig
+[33mcd5722a[m HEAD@{63}: commit: Procfile for Heroku
+[33mae87a49[m HEAD@{64}: commit (initial): Initial commit
